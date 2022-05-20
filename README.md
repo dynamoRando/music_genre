@@ -29,6 +29,10 @@ For example, to install matplotlib, you may run
     python -m pip install -U pip
     python -m pip install -U matplotlib
 
+# Running Locally
+
+To run this notebook locally, ensure that you have the following requirements met and git clone the repo to your local machine.
+
 # Remarks
 
 This was the author's first time leveraging some of these libraries. Much of the Python appoach upon review can be simplifed, and the visualizations further extended. That said, it was an enjoyable experience to try something new.
